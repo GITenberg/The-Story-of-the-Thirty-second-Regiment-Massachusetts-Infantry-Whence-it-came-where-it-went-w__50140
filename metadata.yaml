@@ -1,10 +1,16 @@
 _repo: The-Story-of-the-Thirty-second-Regiment-Massachusetts-Infantry-Whence-it-came-where-it-went-w__50140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50140-h/images/cover.jpg
 creator:
   author:
     agent_name: Parker, Francis J.
     gutenberg_agent_id: '45721'
     url: http://www.gutenberg.org/2009/agents/45721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50140#The-Story-of-the-Thirty-second-Regiment-Massachusetts-Infantry-Whence-it-came-where-it-went-w_
 gutenberg_issued: '2015-10-06'
 gutenberg_type: Text
 identifiers:
